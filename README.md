@@ -1,0 +1,5 @@
+# Bin-packing-research
+Bin packing problem is the problem about the different size of objects be packed into finite number of bins.
+“It is a NP-hard problem, and it is NP-complete about deciding if all objects can fit into specific bins.” (“Bin packing problem”) There are many application using the Bin packing problem, such as “ filling up containers, loading trucks with weight capacity constraints, creating file backups in media and technology mapping in field-programmable gate array semiconductor chip design.” (“Bin packing problem”) 
+In this research, I implemented five bin packing algorithms to test the quality of the solutions they produced. The five bin- packing algorithms are Next Fit, First Fit, Best Fit, First Fit Decreasing, and Best Fit Decreasing. I created a lot of random double numbers (from 0 – 1) to test the quality of each algorithm. Besides, I used the collected data and the graph which draw based on the data to show the result of each bin-packing algorithm. I compared those algorithms to find which one had better quality. 
+If you want to see more details about the research, Please read the report.
